@@ -1,0 +1,104 @@
+/*header*/
+#box-container {
+    width: 1366px;
+    display: flex;
+}
+#box-1 {
+    background-color:#060101;
+    width: 50%;
+    height: 687px;
+}
+#box-2 {
+    background-image: url("header.jpg");
+    background-size: cover;
+    width: 50%;
+    height: 687px;
+}
+h2{
+      font-family: 'Viga', sans-serif;
+      font-size: 45px;
+      color: white;
+      float: left;
+      margin: 0px;
+      padding: 0px;
+}
+input[type=submit]{
+    display: flex;
+    width: 120px;
+    height: 61px;
+    background-color: white;
+    opacity: 70%;
+    float: right;
+    margin-right: 35px;
+    margin-top: 15px;
+    border: 1px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+input[type=submit]:hover{
+    background-color: #D4D4D4;
+}
+h1{
+    font-family: Domine;
+    font-size: 65px;
+    color: white;
+    margin: 35% 10%;
+}
+#box-container-2{
+    width: 1366px;
+    display: flex;
+    height: 750px;
+    background-color:#D4D4D4 ;
+    
+}
+#box-3{
+    margin: 10px 10px 10px 10px;
+    background-image: url("stationery.jpg");
+    height: 600px;
+    width: 450px;
+    background-size: cover;
+}
+#box-3:hover{
+    background-color: grey;
+    opacity: 80%;
+}
+#box-4{
+    margin: 10px 10px 10px 10px;
+    background-image: url("workspace.jpg");
+    height: 600px;
+    width: 450px;
+    background-size: cover;
+}
+#box-4:hover{
+    background-color: grey;
+    opacity: 80%;
+}
+#box-5{
+    margin: 10px 10px 10px 10px;
+    background-image: url("journal.jpg");
+    height: 600px;
+    width: 450px;
+    background-size: cover;
+}
+#box-5:hover{
+    background-color: grey;
+    opacity: 80%;
+}
+#box-6{
+    width: 450px;
+    height: 131px;
+    background-color: white;
+    opacity: 70%;
+    margin-top: 120px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-bottom: 60px;
+}
