@@ -57,7 +57,7 @@ h1{
     margin: 10px 10px 10px 10px;
     background-image: url("stationery.jpg");
     height: 600px;
-    width: 450px;
+    width: 400px;
     background-size: cover;
 }
 #box-3:hover{
@@ -68,7 +68,7 @@ h1{
     margin: 10px 10px 10px 10px;
     background-image: url("workspace.jpg");
     height: 600px;
-    width: 450px;
+    width: 400px;
     background-size: cover;
 }
 #box-4:hover{
@@ -79,7 +79,7 @@ h1{
     margin: 10px 10px 10px 10px;
     background-image: url("journal.jpg");
     height: 600px;
-    width: 450px;
+    width: 400px;
     background-size: cover;
 }
 #box-5:hover{
