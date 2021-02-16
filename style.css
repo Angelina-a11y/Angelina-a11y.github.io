@@ -1,6 +1,6 @@
 /*header*/
 #box-container {
-    width: 1366px;
+    width: 1360px;
     display: flex;
 }
 #box-1 {
@@ -47,7 +47,7 @@ h1{
     margin: 35% 10%;
 }
 #box-container-2{
-    width: 1366px;
+    width: 1360px;
     display: flex;
     height: 750px;
     background-color:#D4D4D4 ;
